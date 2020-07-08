@@ -1,7 +1,7 @@
 # MelGAN-VC
 <a href="https://colab.research.google.com/github/moiseshorta/MelGAN-VC/blob/master/MelGAN_VC_MLAIforSoundWorkshop.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+</a><br>
 MelGAN-VC: Voice Conversion and Audio Style Transfer on arbitrarily long samples using Spectrograms
 
 Original Paper by Marco Passini:
